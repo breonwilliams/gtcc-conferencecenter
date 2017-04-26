@@ -1,2 +1,2 @@
-# fms-theme
-Functional Movement Wordpress Theme
+# gtcc-conferencecenter
+GTCC Conference Center Wordpress Theme
