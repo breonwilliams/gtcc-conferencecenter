@@ -1,1 +1,2 @@
-# gtcc-conferencecenter
+# fms-theme
+Functional Movement Wordpress Theme
