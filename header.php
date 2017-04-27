@@ -146,7 +146,7 @@
 function tier_header(){
     global $post;
 
-    $parent_title = get_the_title( $post->post_parent );
+    $parent_title = get_the_title();
 
     if (is_page() || is_single()){
         $slider_content = wp_kses_post(get_post_meta($post->ID, 'meta_box_slider_embed', true));
