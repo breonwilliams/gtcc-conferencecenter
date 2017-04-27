@@ -148,6 +148,7 @@
         <h1 class='entry-title'><?php the_title(); ?></h1>
     </div>
 </div>
+<?php full_above_content_area(); ?>
 <div id="main-content" class="theme-showcase showcase-boxed pad-40" role="main">
     <div class="container boxed-container pad-40">
 
